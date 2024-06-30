@@ -1,0 +1,11 @@
+
+
+path: /content/drive/MyDrive/train_data
+train: /content/drive/MyDrive/Thesis_work/train_data/images/train/
+val: /content/drive/MyDrive/Thesis_work/train_data/images/val/
+
+nc: 9
+
+names: ['CNG','Easy-bike','Bus',
+        'Motor-bike','Truck','By-cycle',
+        'Car','Van','Rickshaw']
